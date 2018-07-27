@@ -1,0 +1,15 @@
+﻿The capital city of Kazakhtan?
+Astana
+Baku;Moscow;Shimkent;Tashkent;Kuala-Lumpur
+Who is the founder of PayPal?
+Elon Musk
+Steve Jobs;Mark Zukerberg;Bill Gates;Pavel Durov;Larry Page
+When Java was created?
+1995
+2009;1999;1994;2000;2001
+When DiCaprio got his first Oscar?
+2017
+2015;2016;did not got; 2012
+When Russian Federation got an independence?
+1992
+1993;1990;1991;1998
